@@ -70,10 +70,6 @@ View real-time application logs using Kibana.
 
 For more detailed information about the project and a comprehensive guide on AWS EKS cluster monitoring with Prometheus, Grafana, and the EFK stack, head over to the blog link below:
 
-https://devo.hashnode.dev/comprehensive-aws-eks-cluster-monitoring-with-prometheus-grafanaand-efk-stack-10weeksofcloudops
-
-
-
 
 
 
